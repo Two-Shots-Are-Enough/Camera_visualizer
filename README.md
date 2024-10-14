@@ -14,4 +14,6 @@ npy는 원하는 idx만 설정해서 뽑을 수 있도록 만든건데, training
 그리고 training view를 정한 후에 inputs/quick/images에 training view 해당하는 immage만 넣으면 코드를 돌릴 때 해당하는 idx의 camera만 빨간색으로 표현된다.
 
 잘 안되는 건 편하게 물어봐주세용..
+image파일이 너무 커서 지우고 다시 올리려는데 갑자기 뭐가 오류가 나서 안올라가네요.. 일단 낼 만나서 알려드리겠습니다..
+
 
